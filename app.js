@@ -1,1 +1,10 @@
 let variable = 'Aymane Akobi'
+let myList = [1,2,3,4,5]
+let myListSquared = [1,2,3,4,5]
+
+for (let i=0; i< myList.length ;i++) {
+    myListSquared.push(myList[i]* myList[i]);
+
+}
+
+console.log(myListSquared);

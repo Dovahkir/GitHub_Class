@@ -3,6 +3,9 @@ h1 {
     font-size: large;
 }
 
-div {
+.red {
     color:red;
+}
+.blue {
+    color:aquamarine;
 }
