@@ -8,3 +8,5 @@ for (let i=0; i< myList.length ;i++) {
 }
 
 console.log(myListSquared);
+console.log("test");
+console.log("test 1");
