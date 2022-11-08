@@ -4,5 +4,9 @@ Que la force soit avec toi!
 
 Avada Kedavra!
 
+<<<<<<< HEAD
 What is dead never dies!
+=======
+La guerre, la guerre ne finit jamais. 
+>>>>>>> 7db0d12d9840498e2f58f967cb3930dc9f2f9ecf
 
